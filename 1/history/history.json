@@ -1,0 +1,82 @@
+{
+  "test Allure fixture test 2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5bf5c89c11d70b38",
+      "reportUrl" : "https://allure-examples.github.io/allure-js-jest/1//#testresult/5bf5c89c11d70b38",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598595149546,
+        "stop" : 1598595149555,
+        "duration" : 9
+      }
+    } ]
+  },
+  "test Allure simple parametrized test" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bf5becfca0f823fb",
+      "reportUrl" : "https://allure-examples.github.io/allure-js-jest/1//#testresult/bf5becfca0f823fb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598595149964,
+        "stop" : 1598595149964,
+        "duration" : 0
+      }
+    } ]
+  },
+  "test Allure fixture test 1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ec800d14a778fb2d",
+      "reportUrl" : "https://allure-examples.github.io/allure-js-jest/1//#testresult/ec800d14a778fb2d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598595149543,
+        "stop" : 1598595149545,
+        "duration" : 2
+      }
+    } ]
+  },
+  "test Allure simple test" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b25d3518e75572f5",
+      "reportUrl" : "https://allure-examples.github.io/allure-js-jest/1//#testresult/b25d3518e75572f5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598595149775,
+        "stop" : 1598595149777,
+        "duration" : 2
+      }
+    } ]
+  }
+}

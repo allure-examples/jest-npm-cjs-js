@@ -1,0 +1,86 @@
+{
+  "uid" : "bf5becfca0f823fb",
+  "name" : "Allure simple parametrized test",
+  "fullName" : "test Allure simple parametrized test",
+  "historyId" : "test Allure simple parametrized test",
+  "time" : {
+    "start" : 1598595149964,
+    "stop" : 1598595149964,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Step inside parameterized test",
+      "time" : {
+        "start" : 1598595149964,
+        "stop" : 1598595149964,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Test parameter: Second name",
+      "time" : {
+        "start" : 1598595149964,
+        "stop" : 1598595149964,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "param",
+    "value" : "Second name"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "68914cbe202b4dba",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598595149962,
+        "stop" : 1598595149964,
+        "duration" : 2
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bf5becfca0f823fb.json",
+  "parameterValues" : [ "Second name" ]
+}

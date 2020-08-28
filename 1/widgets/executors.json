@@ -1,0 +1,10 @@
+[ {
+  "name" : "GitHub Actions",
+  "type" : "github",
+  "url" : "https://allure-examples.github.io/allure-js-jest",
+  "buildOrder" : 1,
+  "buildName" : "GitHub Actions Run #228207032",
+  "buildUrl" : "https://github.com/allure-examples/allure-js-jest/actions/runs/228207032",
+  "reportName" : "Allure Report with history",
+  "reportUrl" : "https://allure-examples.github.io/allure-js-jest/1/"
+} ]
