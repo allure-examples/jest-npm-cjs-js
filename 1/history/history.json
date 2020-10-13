@@ -4,11 +4,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 1,
+      "passed" : 2,
       "unknown" : 0,
-      "total" : 1
+      "total" : 2
     },
     "items" : [ {
+      "uid" : "e0c42ab51aea2161",
+      "reportUrl" : "https://allure-examples.github.io/allure-javascript-jest/1//#testresult/e0c42ab51aea2161",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602557218081,
+        "stop" : 1602557218082,
+        "duration" : 1
+      }
+    }, {
       "uid" : "5bf5c89c11d70b38",
       "reportUrl" : "https://allure-examples.github.io/allure-js-jest/1//#testresult/5bf5c89c11d70b38",
       "status" : "passed",
@@ -24,11 +33,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 1,
+      "passed" : 2,
       "unknown" : 0,
-      "total" : 1
+      "total" : 2
     },
     "items" : [ {
+      "uid" : "8ef58481bde10c4d",
+      "reportUrl" : "https://allure-examples.github.io/allure-javascript-jest/1//#testresult/8ef58481bde10c4d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602557218304,
+        "stop" : 1602557218304,
+        "duration" : 0
+      }
+    }, {
       "uid" : "bf5becfca0f823fb",
       "reportUrl" : "https://allure-examples.github.io/allure-js-jest/1//#testresult/bf5becfca0f823fb",
       "status" : "passed",
@@ -44,11 +62,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 1,
+      "passed" : 2,
       "unknown" : 0,
-      "total" : 1
+      "total" : 2
     },
     "items" : [ {
+      "uid" : "fcafccb43af19918",
+      "reportUrl" : "https://allure-examples.github.io/allure-javascript-jest/1//#testresult/fcafccb43af19918",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602557218079,
+        "stop" : 1602557218081,
+        "duration" : 2
+      }
+    }, {
       "uid" : "ec800d14a778fb2d",
       "reportUrl" : "https://allure-examples.github.io/allure-js-jest/1//#testresult/ec800d14a778fb2d",
       "status" : "passed",
@@ -64,11 +91,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 1,
+      "passed" : 2,
       "unknown" : 0,
-      "total" : 1
+      "total" : 2
     },
     "items" : [ {
+      "uid" : "7ec65ac4e9e78d1d",
+      "reportUrl" : "https://allure-examples.github.io/allure-javascript-jest/1//#testresult/7ec65ac4e9e78d1d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602557218203,
+        "stop" : 1602557218204,
+        "duration" : 1
+      }
+    }, {
       "uid" : "b25d3518e75572f5",
       "reportUrl" : "https://allure-examples.github.io/allure-js-jest/1//#testresult/b25d3518e75572f5",
       "status" : "passed",

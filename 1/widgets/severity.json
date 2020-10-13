@@ -1,40 +1,40 @@
 [ {
-  "uid" : "bf5becfca0f823fb",
-  "name" : "Allure simple parametrized test",
-  "time" : {
-    "start" : 1598595149964,
-    "stop" : 1598595149964,
-    "duration" : 0
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "b25d3518e75572f5",
+  "uid" : "7ec65ac4e9e78d1d",
   "name" : "Allure simple test",
   "time" : {
-    "start" : 1598595149775,
-    "stop" : 1598595149777,
-    "duration" : 2
+    "start" : 1602557218203,
+    "stop" : 1602557218204,
+    "duration" : 1
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "ec800d14a778fb2d",
-  "name" : "Allure fixture test 1",
-  "time" : {
-    "start" : 1598595149543,
-    "stop" : 1598595149545,
-    "duration" : 2
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "5bf5c89c11d70b38",
+  "uid" : "e0c42ab51aea2161",
   "name" : "Allure fixture test 2",
   "time" : {
-    "start" : 1598595149546,
-    "stop" : 1598595149555,
-    "duration" : 9
+    "start" : 1602557218081,
+    "stop" : 1602557218082,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fcafccb43af19918",
+  "name" : "Allure fixture test 1",
+  "time" : {
+    "start" : 1602557218079,
+    "stop" : 1602557218081,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8ef58481bde10c4d",
+  "name" : "Allure simple parametrized test",
+  "time" : {
+    "start" : 1602557218304,
+    "stop" : 1602557218304,
+    "duration" : 0
   },
   "status" : "passed",
   "severity" : "normal"

@@ -1,0 +1,106 @@
+{
+  "uid" : "8ef58481bde10c4d",
+  "name" : "Allure simple parametrized test",
+  "fullName" : "test Allure simple parametrized test",
+  "historyId" : "test Allure simple parametrized test",
+  "time" : {
+    "start" : 1602557218304,
+    "stop" : 1602557218304,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Step inside parameterized test",
+      "time" : {
+        "start" : 1602557218304,
+        "stop" : 1602557218304,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Test parameter: Second name",
+      "time" : {
+        "start" : 1602557218304,
+        "stop" : 1602557218304,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "param",
+    "value" : "Second name"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "5870e34a646808d5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602557218304,
+        "stop" : 1602557218304,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "bf5becfca0f823fb",
+        "reportUrl" : "https://allure-examples.github.io/allure-js-jest/1//#testresult/bf5becfca0f823fb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598595149964,
+          "stop" : 1598595149964,
+          "duration" : 0
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "8ef58481bde10c4d.json",
+  "parameterValues" : [ "Second name" ]
+}

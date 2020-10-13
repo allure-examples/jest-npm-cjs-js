@@ -2,12 +2,12 @@
   "uid" : "b1a8273437954620fa374b796ffaacdd",
   "children" : [ {
     "name" : "Allure fixture test 1",
-    "uid" : "ec800d14a778fb2d",
+    "uid" : "fcafccb43af19918",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1598595149543,
-      "stop" : 1598595149545,
+      "start" : 1602557218079,
+      "stop" : 1602557218081,
       "duration" : 2
     },
     "flaky" : false,
@@ -15,38 +15,38 @@
     "parameters" : [ ]
   }, {
     "name" : "Allure fixture test 2",
-    "uid" : "5bf5c89c11d70b38",
+    "uid" : "e0c42ab51aea2161",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1598595149546,
-      "stop" : 1598595149555,
-      "duration" : 9
+      "start" : 1602557218081,
+      "stop" : 1602557218082,
+      "duration" : 1
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "Allure simple test",
-    "uid" : "b25d3518e75572f5",
+    "uid" : "7ec65ac4e9e78d1d",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1598595149775,
-      "stop" : 1598595149777,
-      "duration" : 2
+      "start" : 1602557218203,
+      "stop" : 1602557218204,
+      "duration" : 1
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "Allure simple parametrized test",
-    "uid" : "bf5becfca0f823fb",
+    "uid" : "8ef58481bde10c4d",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1598595149964,
-      "stop" : 1598595149964,
+      "start" : 1602557218304,
+      "stop" : 1602557218304,
       "duration" : 0
     },
     "flaky" : false,
