@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Sep 30 16:56:11 GMT 2024","Mon Sep 30 16:56:11 GMT 2024","2","","","","","","Allure simple test",""
+"failed","Mon Sep 30 16:56:11 GMT 2024","Mon Sep 30 16:56:11 GMT 2024","1","","","","","","Allure fixture test 2",""
+"failed","Mon Sep 30 16:56:11 GMT 2024","Mon Sep 30 16:56:11 GMT 2024","2","","","","","","Allure fixture test 1",""
+"passed","Mon Sep 30 16:56:11 GMT 2024","Mon Sep 30 16:56:11 GMT 2024","1","","","","","","Allure simple parametrized test",""
