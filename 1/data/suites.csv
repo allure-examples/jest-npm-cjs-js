@@ -1,5 +1,2 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Tue Oct 13 02:46:58 GMT 2020","Tue Oct 13 02:46:58 GMT 2020","0","test","","","","","Allure simple parametrized test",""
-"passed","Tue Oct 13 02:46:58 GMT 2020","Tue Oct 13 02:46:58 GMT 2020","1","test","","","","","Allure simple test",""
-"passed","Tue Oct 13 02:46:58 GMT 2020","Tue Oct 13 02:46:58 GMT 2020","2","test","","","","","Allure fixture test 1",""
-"passed","Tue Oct 13 02:46:58 GMT 2020","Tue Oct 13 02:46:58 GMT 2020","1","test","","","","","Allure fixture test 2",""
+"passed","Mon Sep 30 17:06:23 GMT 2024","Mon Sep 30 17:06:23 GMT 2024","5","","","","","","sample test",""

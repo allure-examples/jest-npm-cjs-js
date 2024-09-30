@@ -1,10 +1,1 @@
-[ {
-  "name" : "GitHub Actions",
-  "type" : "github",
-  "url" : "https://allure-examples.github.io/allure-javascript-jest",
-  "buildOrder" : 1,
-  "buildName" : "GitHub Actions Run #303541746",
-  "buildUrl" : "https://github.com/allure-examples/allure-javascript-jest/actions/runs/303541746",
-  "reportName" : "Allure Report with history",
-  "reportUrl" : "https://allure-examples.github.io/allure-javascript-jest/1/"
-} ]
+[{"name":"GitHub Actions","type":"github","url":"https://allure-examples.github.io/jest-npm-cjs-js","buildOrder":1,"buildName":"GitHub Actions Run #11110818041","buildUrl":"https://github.com/allure-examples/jest-npm-cjs-js/actions/runs/11110818041","reportName":"Allure Report with history","reportUrl":"https://allure-examples.github.io/jest-npm-cjs-js/1/"}]
