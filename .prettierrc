@@ -1,0 +1,9 @@
+{
+  "printWidth": 80,
+  "trailingComma": "all",
+  "singleQuote": false,
+  "arrowParens": "always",
+  "importOrder": ["^[./]"],
+  "importOrderSeparation": false,
+  "importOrderSortSpecifiers": true
+}
